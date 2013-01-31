@@ -60,7 +60,11 @@ IDE
 
 Eclise vanilla / STS settings for getting started
 Formatter / setting config files
-Maybe a yoxos config
+Maybe a yoxos config?
+
+List of plugins
+* http://www.objectaid.com/download
+* https://code.google.com/a/eclipselabs.org/p/workspacemechanic/
 
 Documentation
 =============
