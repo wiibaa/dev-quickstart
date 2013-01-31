@@ -1,12 +1,37 @@
-java-quickstart
+dev-quickstart
 ===============
 
-My preferred quick-start config for a new "java" project
+My preferred settings fir quick-start configuration of a dev environment or a new project
 
-Need to keep a template + example of my best practices for setting up a project
+Env
+===
+
+Quick setup script for both Ubuntu/Windows platforms
+
+Ubuntu specific
+---------------
+  
+    sudo apt-get install git, openjdk, 
+    
+RVM install + latest Jruby
+
+Windows specific pre-requisites
+-------------------------------
+
+http://sourceforge.net/projects/unxutils/
+Git-installer
+JDK-installer
+Jruby-installer
+
+
+
+Java
+====
+
+Need to keep define a template + example of my best practices for setting up a project
 
 Maven
-======
+-----
 
 Multi-module
 Dependency management
